@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/World-Food-Cuisine/static/css/main.88aecfa0.css",
+    "main.js": "/World-Food-Cuisine/static/js/main.58b4175a.js",
+    "static/js/787.bd02f72e.chunk.js": "/World-Food-Cuisine/static/js/787.bd02f72e.chunk.js",
+    "static/media/image-1.jpg": "/World-Food-Cuisine/static/media/image-1.3958f9a607660e4bfbb9.jpg",
+    "static/media/image-back.jpg": "/World-Food-Cuisine/static/media/image-back.3958f9a607660e4bfbb9.jpg",
+    "static/media/img-poach-egg.jpg": "/World-Food-Cuisine/static/media/img-poach-egg.1a21b2066ec2b312923e.jpg",
+    "static/media/img-korean.jpg": "/World-Food-Cuisine/static/media/img-korean.bbcf4b2c840d9f0b87bb.jpg",
+    "static/media/img-hawaiin.jpg": "/World-Food-Cuisine/static/media/img-hawaiin.0b03e999e4a80e10cfee.jpg",
+    "static/media/img-vegan-sweet.jpg": "/World-Food-Cuisine/static/media/img-vegan-sweet.c6a385a41c0a6263f6ad.jpg",
+    "static/media/img-egg-salmon.jpg": "/World-Food-Cuisine/static/media/img-egg-salmon.7e600903052b824ee543.jpg",
+    "static/media/img-indian-cuisine.jpg": "/World-Food-Cuisine/static/media/img-indian-cuisine.18435e29ef268c952494.jpg",
+    "static/media/img-vegan.jpg": "/World-Food-Cuisine/static/media/img-vegan.68fd5ede351ee5a38302.jpg",
+    "static/media/img-usa-cuisine.jpg": "/World-Food-Cuisine/static/media/img-usa-cuisine.6ff8bcba3ac929aafedd.jpg",
+    "static/media/img-italian-small.jpg": "/World-Food-Cuisine/static/media/img-italian-small.43e1466b377d9669218b.jpg",
+    "static/media/img-chinese-cuisine.jpg": "/World-Food-Cuisine/static/media/img-chinese-cuisine.bbfec3f77917eaadd468.jpg",
+    "static/media/img-mexican-cuisine.jpg": "/World-Food-Cuisine/static/media/img-mexican-cuisine.d6612121e75d99edcd07.jpg",
+    "static/media/avatar.png": "/World-Food-Cuisine/static/media/avatar.a8f09bd9e7ccfabf35aa.png",
+    "static/media/img-cuisine4.svg": "/World-Food-Cuisine/static/media/img-cuisine4.9e4c6eb8fd7b4ab7139bb5297cce1838.svg",
+    "index.html": "/World-Food-Cuisine/index.html",
+    "main.88aecfa0.css.map": "/World-Food-Cuisine/static/css/main.88aecfa0.css.map",
+    "main.58b4175a.js.map": "/World-Food-Cuisine/static/js/main.58b4175a.js.map",
+    "787.bd02f72e.chunk.js.map": "/World-Food-Cuisine/static/js/787.bd02f72e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88aecfa0.css",
+    "static/js/main.58b4175a.js"
+  ]
+}
